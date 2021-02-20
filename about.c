@@ -3,4 +3,5 @@ void main()
 {
 	printf("Welcome");
 	printf("github");
+	printf("day2");
 }
